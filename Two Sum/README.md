@@ -53,8 +53,8 @@ You can return the answer in any order.
 
 # Solutions
 
-- [C# Solution](https://github.com/iabu94/leetcode-solutions/Two)
+- [C# Solution](https://github.com/iabu94/leetcode-solutions/blob/master/Two%20Sum/solution.cs)
 
-- [JS Solution]()
+- [JS Solution](https://github.com/iabu94/leetcode-solutions/blob/master/Two%20Sum/solution.js)
 
-- [TS Solution]()
+- [TS Solution](https://github.com/iabu94/leetcode-solutions/blob/master/Two%20Sum/solution.ts)
